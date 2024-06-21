@@ -1,0 +1,3 @@
+//gcc -c .\tokito.c .\funcionest.c  
+//gcc .\tokito.c .\funcionest.c -o tokito
+//.\tokito.exe
